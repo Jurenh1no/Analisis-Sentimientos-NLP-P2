@@ -1,0 +1,6 @@
+requests
+pandas
+nltk
+unidecode
+scikit-learn
+numpy
