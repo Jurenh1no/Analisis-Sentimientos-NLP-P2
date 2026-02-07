@@ -29,3 +29,4 @@ El proyecto fue desarrollado en Python. Las librerías necesarias se encuentran 
 
 ```bash
 pip install -r requirements.txt
+Si desea ejecutar la recolección de datos desde cero, por favor inserte su propio Personal Access Token en la variable token_github dentro del notebook
