@@ -23,11 +23,10 @@ Este proyecto aplica técnicas de Procesamiento de Lenguaje Natural (PLN) para a
     * Similitud de Coseno.
 
 ## Instrucciones de Ejecución
-
+Si desea ejecutar la recolección de datos desde cero, por favor inserte su propio Personal Access Token en la variable token_github dentro del notebook
 ### Requisitos Previos
 El proyecto fue desarrollado en Python. Las librerías necesarias se encuentran en `requirements.txt`. Puedes instalarlas ejecutando:
 
 ```bash
 pip install -r requirements.txt
 
-Si desea ejecutar la recolección de datos desde cero, por favor inserte su propio Personal Access Token en la variable token_github dentro del notebook
